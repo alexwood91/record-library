@@ -20,4 +20,4 @@ I feel like this project will allow me to practice and demonstrate each of these
  [ ] Define the record class including attributes
  [ ] Define the library class
  [ ] Create methods for listing, adding and removing records
- [ ] \(Optional) Further tasks
+ [ ] \(Optional) Further tasksViktor_test
